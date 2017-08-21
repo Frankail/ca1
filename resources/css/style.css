@@ -516,7 +516,7 @@ header .btn-wow:active {
   color: white;
 }
 
-.info-box a {
+.exhibit .info-box a {
   font-size: 1.5rem;
   font-weight: bold;
   color: rgb(0,128,128);
@@ -524,7 +524,7 @@ header .btn-wow:active {
   transition-property: color 100ms ease-in-out;
 }
 
-.info-box a:hover{
+.exhibit .info-box a:hover{
   color: rgb(60,60,60);
 }
 
